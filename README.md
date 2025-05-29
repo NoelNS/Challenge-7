@@ -1,9 +1,10 @@
 # Project Title
 
-Professional README Generator
+README 
+
 ## Description
 
-README
+Professional README Generator
 
 ## Getting Started
 
