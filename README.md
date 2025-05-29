@@ -3,7 +3,7 @@
 Professional README Generator
 ## Description
 
-undefined
+README
 
 ## Getting Started
 
@@ -36,8 +36,7 @@ MIT
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## emailaddress
-
-undefined
+test@test.com
 
 
 
